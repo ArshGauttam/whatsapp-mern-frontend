@@ -71,6 +71,7 @@ background-color: #dcf8c6;
 
 .chat__footer>form>input{
           flex:1;
+          
           border-radius: 30px;
           padding: 10px;
           border: none;
